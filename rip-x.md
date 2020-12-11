@@ -9,7 +9,7 @@ created: <date created on, in ISO 8601 (yyyy-mm-dd) format>
 requires (*optional): <RIP number(s)>
 implementation (*optional): <Added if RIP passes>
 ---
-<!--You can leave these HTML comments in your merged RIP and delete the visible duplicate text guides, they will not appear and may be helpful to refer to if you edit it again. This is the suggested template for new YIPs. Note that an YIP number will be assigned by an editor. When opening a pull request to submit your YIP, please use an abbreviated title in the filename, `yip-draft_title_abbrev.md`. The title should be 44 characters or less.-->
+<!--You can leave these HTML comments in your merged RIP and delete the visible duplicate text guides, they will not appear and may be helpful to refer to if you edit it again. This is the suggested template for new RIPs. Note that an RIP number will be assigned by an editor. When opening a pull request to submit your RIP, please use an abbreviated title in the filename, `rip-draft_title_abbrev.md`. The title should be 44 characters or less.-->
 
 This is the suggested template for new RIPs. Note that an RIP number will be assigned by an editor. When opening a pull request to submit your RIP, please use an abbreviated title in the filename, `rip-draft_title_abbrev.md`. The title should be 44 characters or less.
 
@@ -18,12 +18,12 @@ This is the suggested template for new RIPs. Note that an RIP number will be ass
 "If you can't explain it simply, you don't understand it well enough." Simply describe the outcome the proposed change intends to achieve. This should be non-technical and accessible to a casual community member.
 
 ## Abstract
-<!--A short (~200 word) description of the proposed change, the abstract should clearly describe the proposed change. This is what *will* be done if the RIP is implemented, not *why* it should be done or *how* it will be done. If the YIP proposes deploying a new contract, write, "we propose to deploy a new contract that will do x".-->
-A short (~200 word) description of the proposed change, the abstract should clearly describe the proposed change. This is what *will* be done if the RIP is implemented, not *why* it should be done or *how* it will be done. If the YIP proposes deploying a new contract, write, "we propose to deploy a new contract that will do x".
+<!--A short (~200 word) description of the proposed change, the abstract should clearly describe the proposed change. This is what *will* be done if the RIP is implemented, not *why* it should be done or *how* it will be done. If the RIP proposes deploying a new contract, write, "we propose to deploy a new contract that will do x".-->
+A short (~200 word) description of the proposed change, the abstract should clearly describe the proposed change. This is what *will* be done if the RIP is implemented, not *why* it should be done or *how* it will be done. If the RIP proposes deploying a new contract, write, "we propose to deploy a new contract that will do x".
 
 ## Motivation
-<!--This is the problem statement. This is the *why* of the RIP. It should clearly explain *why* the current state of the protocol is inadequate.  It is critical that you explain *why* the change is needed, if the YIP proposes changing how something is calculated, you must address *why* the current calculation is innaccurate or wrong. This is not the place to describe how the YIP will address the issue!-->
-This is the problem statement. This is the *why* of the RIP. It should clearly explain *why* the current state of the protocol is inadequate.  It is critical that you explain *why* the change is needed, if the YIP proposes changing how something is calculated, you must address *why* the current calculation is innaccurate or wrong. This is not the place to describe how the YIP will address the issue!
+<!--This is the problem statement. This is the *why* of the RIP. It should clearly explain *why* the current state of the protocol is inadequate.  It is critical that you explain *why* the change is needed, if the RIP proposes changing how something is calculated, you must address *why* the current calculation is innaccurate or wrong. This is not the place to describe how the RIP will address the issue!-->
+This is the problem statement. This is the *why* of the RIP. It should clearly explain *why* the current state of the protocol is inadequate.  It is critical that you explain *why* the change is needed, if the RIP proposes changing how something is calculated, you must address *why* the current calculation is innaccurate or wrong. This is not the place to describe how the RIP will address the issue!
 
 ## Specification
 <!--The specification should describe the syntax and semantics of any new feature, there are five sections
