@@ -1,4 +1,4 @@
-# RIPs [![Discord](https://img.shields.io/discord/763219451905704026?color=blue&label=discord)](https://discord.gg/Y6Zy7c2aat) [![Telegram](https://img.shields.io/badge/chat-on%20Telegram-blue.svg)](https://t.me/RariCapitalChat) [![Twitter Follow](https://img.shields.io/twitter/follow/raricapital.svg?label=RariCapital&style=social)](https://twitter.com/raricapital)
+# RIPs [![Discord](https://img.shields.io/discord/763219451905704026?color=7289da&label=discord)](https://discord.gg/Y6Zy7c2aat) [![Telegram](https://img.shields.io/badge/chat-on%20Telegram-blue.svg)](https://t.me/RariCapitalChat) [![Twitter Follow](https://img.shields.io/twitter/follow/raricapital.svg?label=RariCapital&style=social)](https://twitter.com/raricapital)
 
 Rari Improvement Proposals (RIPs) describe standards for the Rari Capital platform, including core protocol specifications, client APIs, and contract standards.
  
