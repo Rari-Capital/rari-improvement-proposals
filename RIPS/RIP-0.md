@@ -133,7 +133,7 @@ The editors don’t pass judgment on RIPs. We merely do the administrative & edi
 
 The RIP document was derived heavily from the SIP Synthetix Improvement Proposal document and RIP Rari Improvement Proposal document and in many places, the text was simply copied and modified. Any comments about the RIP document should be directed to the RIP editors.
 
-## Bibliography
+### Bibliography
 
 [the official Rari Discord]: https://discord.gg/Y6Zy7c2aat
 [the official Rari Telegram]: https://t.me/RariCapitalChat
