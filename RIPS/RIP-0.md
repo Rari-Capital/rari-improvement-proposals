@@ -140,7 +140,7 @@ The current RIP editors are:
 
 * `Jai Bhavnani (@jai):` [GitHub](https://github.com/jbhav24)/[Forums](https://forums.rari.capital/u/jai)
 
-* `Ben Mayer (@t11s):` [GitHub]https://github.com/TransmissionsDev)/[Forums](https://forums.rari.capital/u/t11s)
+* `Ben Mayer (@t11s):` [GitHub](https://github.com/TransmissionsDev)/[Forums](https://forums.rari.capital/u/t11s)
 
 * `David Lucid (@):` [GitHub](https://github.com/davidlucid)/[Forums](https://forums.rari.capital/u/JackLipstone)
 
