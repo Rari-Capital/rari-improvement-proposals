@@ -1,4 +1,4 @@
-# RIPs [![Discord](https://img.shields.io/discord/763219451905704026?color=7289da&label=discord)](https://discord.gg/Y6Zy7c2aat) [![Telegram](https://img.shields.io/badge/chat-on%20Telegram-blue.svg)](https://t.me/RariCapitalChat) [![Twitter Follow](https://img.shields.io/twitter/follow/raricapital.svg?label=RariCapital&style=social)](https://twitter.com/raricapital)
+# RIPs [![Discord](https://img.shields.io/discord/763219451905704026?color=7289da&label=discord)](https://discord.gg/HzUMPuT) [![Telegram](https://img.shields.io/badge/chat-on%20Telegram-blue.svg)](https://t.me/RariCapitalChat) [![Twitter Follow](https://img.shields.io/twitter/follow/raricapital.svg?label=RariCapital&style=social)](https://twitter.com/raricapital)
 
 ## History
 The RIP document was derived heavily from the SIP Synthetix Improvement Proposal document and YIP yEarn Improvement Proposal document and in many places, the text was simply copied and modified. Any comments about the RIP document should be directed to the RIP editors.
