@@ -98,7 +98,7 @@ RIPs may have a `requires` header, indicating the RIP numbers that this RIP depe
 
 ## Auxiliary Files
 
-RIPs may include auxiliary files such as diagrams. Such files must be named RIP-XXXX-Y.ext, where “XXXX” is the RIP number, “Y” is a serial number (starting at 1), and “ext” is replaced by the actual file extension (e.g. “png”).
+RIPs may include auxiliary files such as diagrams. Such files must be named RIP-XXXX-Y.ext, where “XXXX” is the RIP number, “X” is a serial number (starting at 1), and “ext” is replaced by the actual file extension (e.g. “png”).
 
 ## RIP Editors
 
