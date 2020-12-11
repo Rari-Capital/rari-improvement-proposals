@@ -13,7 +13,7 @@ Your first PR should be a first draft of the final RIP. It must meet the formatt
 
 If your RIP requires images, the image files should be included in a subdirectory of the `assets` folder for that RIP as follow: `assets/RIP-X` (for RIP **X**). When linking to an image in the RIP, use relative links such as `../assets/RIP-X/image.png`.
 
-When you believe your RIP is mature and ready to progress past the WIP phase, you should ask to have your issue added to the next governance call where it can be discussed for inclusion in a future platform upgrade. If the community agrees to include it, the RIP editors will update the state of your RIP to 'Approved'.
+When you believe your RIP is mature and ready to progress past the WIP phase, you should ask to have your issue added to the future governance calls where it can be discussed for inclusion in a future platform upgrade. If the community agrees to include it, the RIP editors will update the state of your RIP to 'Approved'.
 
 ## RIP Statuses
 
