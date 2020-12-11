@@ -26,16 +26,6 @@ When you believe your RIP is mature and ready to progress past the WIP phase, yo
 * **Deferred** - a RIP that is pending another RIP/some other change that should be bundled with it together.
 * **Moribund** - a RIP that was implemented but is now obsolete and requires no explicit replacement.
 
-## Validation
-
-RIPs must pass some validation tests.  The RIP repository ensures this by running tests using [html-proofer](https://rubygems.org/gems/html-proofer) and [yip_validator](https://rubygems.org/gems/yip_validator).
-
-It is possible to run the RIP validator locally:
-```
-gem install rip_validator
-rip_validator <INPUT_FILES>
-```
-
 ## Copyright
 
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
