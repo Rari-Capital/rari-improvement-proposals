@@ -30,9 +30,9 @@ Parties involved in the process are the *author*, the [*RIP editors*](#rip-edito
 Your role as the champion is to write the RIP using the style and format described below, shepherd the discussions in the appropriate forums, and build community consensus around the idea. Following is the process that a successful RIP will move along:
 
 ```
-Proposed -> Approved -> Implemented
-  ^                     |
-  +----> Rejected       +----> Moribund
+Proposed -> Approved -> Implementing -> Implemented
+  ^                                         |
+  +----> Rejected                           +----> Moribund
   |
   +----> Withdrawn
   v
@@ -43,6 +43,7 @@ Each status change is requested by the RIP author and reviewed by the RIP editor
 * **Work in progress (WIP)** -- Once the champion has asked the Rari community whether an idea has any chance of support, they will write a draft RIP as a [pull request]. Consider including an implementation if this will aid people in studying the RIP.
 * **Proposed** If agreeable, a RIP editor will assign the RIP a number (generally the issue or PR number related to the RIP) and merge your pull request. The RIP editor will not unreasonably deny a RIP. Proposed RIPs will be discussed on governance calls and in Discord. If there is a reasonable level of consensus around the change on the governance call the change will be moved to approved. If the change is contentious a vote of token holders may be held to resolve the issue or approval may be delayed until a consensus is reached.
 * **Approved** -- This RIP has passed community governance and is now being prioritised for development.
+* **Implementing** -- This RIP is currently being implemented.
 * **Implemented** -- This RIP has been implemented and deployed to mainnet.
 * **Rejected** -- This RIP has failed to reach community consensus.
 * **Withdrawn** -- This RIP has been withdrawn by the author(s).
