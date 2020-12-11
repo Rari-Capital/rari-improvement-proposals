@@ -136,13 +136,13 @@ The current RIP editors are:
 
 * `Jack Lipstone:` [GitHub](https://github.com/Jacklipstone)/[Forums](https://forums.rari.capital/u/JackLipstone)
 
-` * Justin Yu (@JustinYu): [GitHub](https://github.com/Jacklipstone)/[Forums](https://forums.rari.capital/u/JustinYu)`
+* `Justin Yu (@JustinYu):` [GitHub](https://github.com/Jacklipstone)/[Forums](https://forums.rari.capital/u/JustinYu)
 
-` * Jai Bhavnani (@jai): [GitHub](https://github.com/jbhav24)/[Forums](https://forums.rari.capital/u/jai)`
+* `Jai Bhavnani (@jai):` [GitHub](https://github.com/jbhav24)/[Forums](https://forums.rari.capital/u/jai)
 
-` * Ben Mayer (@t11s): [GitHub]https://github.com/TransmissionsDev)/[Forums](https://forums.rari.capital/u/t11s)`
+* `Ben Mayer (@t11s):` [GitHub]https://github.com/TransmissionsDev)/[Forums](https://forums.rari.capital/u/t11s)
 
-` * David Lucid (@):[GitHub](https://github.com/davidlucid)/[Forums](https://forums.rari.capital/u/JackLipstone)`
+* `David Lucid (@):` [GitHub](https://github.com/davidlucid)/[Forums](https://forums.rari.capital/u/JackLipstone)
 
 ## RIP Editor Responsibilities
 
