@@ -131,8 +131,7 @@ The editors don’t pass judgment on RIPs. We merely do the administrative & edi
 
 
 ## History
-
-The RIP document was derived heavily from the SIP Synthetix Improvement Proposal document and RIP Rari Improvement Proposal document and in many places, the text was simply copied and modified. Any comments about the RIP document should be directed to the RIP editors.
+The RIP document was derived heavily from the SIP Synthetix Improvement Proposal document and YIP yEarn Improvement Proposal document and in many places, the text was simply copied and modified. Any comments about the RIP document should be directed to the RIP editors.
 
 <!--### Bibliography-->
 
