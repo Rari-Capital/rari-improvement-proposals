@@ -10,7 +10,7 @@ updated: 2020-12-10
 
 ## What is a RIP?
 
-RIP stands for Rari Improvement Proposal, it has been adapted from the SIP (Synthetix Improvement Proposal) and RIP (Rari Improvement Proposal). RIPs are structured to present proposals to improve the Rari protocol and/or ecosystem. They should provide relative information surrounding the proposed change and objectively inform the community. The author is responsible for building consensus within the community and documenting dissenting opinions.
+RIP stands for Rari Improvement Proposal, it has been adapted from the SIP (Synthetix Improvement Proposal) and YIP (yEarn Improvement Proposal). RIPs are structured to present proposals to improve the Rari protocol and/or ecosystem. They should provide relative information surrounding the proposed change and objectively inform the community. The author is responsible for building consensus within the community and documenting dissenting opinions.
 
 ## RIP Rationale
 
