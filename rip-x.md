@@ -3,7 +3,7 @@ rip: <to be assigned>
 title: <RIP title>
 status: WIP
 author: <a list of the author's or authors' name(s) and/or username(s), or name(s) and email(s), e.g. (use with the parentheses or triangular brackets): FirstName LastName (@GitHubUsername), FirstName LastName <foo@bar.com>, FirstName (@GitHubUsername) and GitHubUsername (@GitHubUsername)>
-discussions-to: <Create a new thread on https://gov.yearn.finance/ and drop the link here>
+discussions-to: <Create a new thread on https://forums.rari.capital/ and drop the link here>
 
 created: <date created on, in ISO 8601 (yyyy-mm-dd) format>
 requires (*optional): <RIP number(s)>
@@ -11,7 +11,7 @@ implementation (*optional): <Added if RIP passes>
 ---
 <!--You can leave these HTML comments in your merged RIP and delete the visible duplicate text guides, they will not appear and may be helpful to refer to if you edit it again. This is the suggested template for new YIPs. Note that an YIP number will be assigned by an editor. When opening a pull request to submit your YIP, please use an abbreviated title in the filename, `yip-draft_title_abbrev.md`. The title should be 44 characters or less.-->
 
-This is the suggested template for new RIPs. Note that an RIP number will be assigned by an editor. When opening a pull request to submit your RIP, please use an abbreviated title in the filename, `yip-draft_title_abbrev.md`. The title should be 44 characters or less.
+This is the suggested template for new RIPs. Note that an RIP number will be assigned by an editor. When opening a pull request to submit your RIP, please use an abbreviated title in the filename, `rip-draft_title_abbrev.md`. The title should be 44 characters or less.
 
 ## Simple Summary
 <!--"If you can't explain it simply, you don't understand it well enough." Simply describe the outcome the proposed changes intends to achieve. This should be non-technical and accessible to a casual community member.-->
