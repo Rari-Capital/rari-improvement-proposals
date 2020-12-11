@@ -134,7 +134,7 @@ RIPs may include auxiliary files such as diagrams. Such files must be named RIP-
 
 The current RIP editors are:
 
-` * Jack Lipstone: [GitHub](https://github.com/Jacklipstone)/[Forums](https://forums.rari.capital/u/JackLipstone)`
+* `Jack Lipstone:` [GitHub](https://github.com/Jacklipstone)/[Forums](https://forums.rari.capital/u/JackLipstone)
 
 ` * Justin Yu (@JustinYu): [GitHub](https://github.com/Jacklipstone)/[Forums](https://forums.rari.capital/u/JustinYu)`
 
