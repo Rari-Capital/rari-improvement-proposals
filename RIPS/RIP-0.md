@@ -72,18 +72,47 @@ Image files should be included in a subdirectory of the `assets` folder for that
 
 Each RIP must begin with an [RFC 822](https://www.ietf.org/rfc/rfc822.txt) style header preamble, preceded and followed by three hyphens (`---`). This header is also termed ["front matter" by Jekyll](https://jekyllrb.com/docs/front-matter/). The headers must appear in the following order. Headers marked with "*" are optional and are described below. All other headers are required.
 
----
-rip: <to be assigned>
-title: <RIP title>
-status: WIP
-author: <a list of the author's or authors' name(s) and/or username(s), or name(s) and email(s)>
-discussions-to: <Create a new thread on https://forums.rari.capital/ and drop the link here>
+` yip:` <RIP number> (this is determined by the YIP editor)
 
-created: <date created on, in ISO 8601 (yyyy-mm-dd) format>
-requires (*optional): <RIP number(s)>
-implementation (*optional): <Added if RIP passes>
----
+` title:` <RIP title>
 
+` author:` <a list of the author's or authors' name(s) and/or username(s), or name(s) and email(s). Details are below.>
+
+` * discussions-to:` \<a url pointing to the official discussion thread at forums.rari.capital\>
+
+` status:` < WIP | PROPOSED | APPROVED | IMPLEMENTING | IMPLEMENTED >
+
+` created:` <date created on>
+
+` * updated:` <comma separated list of dates>
+
+` * requires:` <RIP number(s)>
+
+` * resolution:` \<a url pointing to the resolution of this RIP\>
+
+Headers that permit lists must separate elements with commas.
+
+Headers requiring dates will always do so in the format of ISO 8601 (yyyy-mm-dd).
+
+#### `author` header
+
+The `author` header optionally lists the names, email addresses or usernames of the authors/owners of the RIP. Those who prefer anonymity may use a username only, or a first name and a username. The format of the author header value must be:
+
+> Random J. User &lt;address@dom.ain&gt;
+
+or
+
+> Random J. User (@username)
+
+if the email address or GitHub username is included, and
+
+> Random J. User
+
+if the email address is not given.
+
+#### `discussions-to` header
+
+While an RIP is in WIP or Proposed status, a `discussions-to` header will indicate the URL at [forums.rari.capital](https://forums.rari.capital/) where the RIP is being discussed.
 
 #### `created` header
 
@@ -105,15 +134,15 @@ RIPs may include auxiliary files such as diagrams. Such files must be named RIP-
 
 The current RIP editors are:
 
-* `Jack Lipstone:` [GitHub](https://github.com/Jacklipstone)/[Forums](https://forums.rari.capital/u/JackLipstone)
+` * Jack Lipstone: [GitHub](https://github.com/Jacklipstone)/[Forums](https://forums.rari.capital/u/JackLipstone)`
 
-` * Justin Yu (@JustinYu)`
+` * Justin Yu (@JustinYu): [GitHub](https://github.com/Jacklipstone)/[Forums](https://forums.rari.capital/u/JustinYu)`
 
-` * Jai Bhavnani (@jai)`
+` * Jai Bhavnani (@jai): [GitHub](https://github.com/jbhav24)/[Forums](https://forums.rari.capital/u/jai)`
 
-` * Ben Mayer (@t11s)`
+` * Ben Mayer (@t11s): [GitHub]https://github.com/TransmissionsDev)/[Forums](https://forums.rari.capital/u/t11s)`
 
-` * David Lucid (@)`
+` * David Lucid (@):[GitHub](https://github.com/davidlucid)/[Forums](https://forums.rari.capital/u/JackLipstone)`
 
 ## RIP Editor Responsibilities
 
