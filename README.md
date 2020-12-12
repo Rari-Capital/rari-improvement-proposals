@@ -24,6 +24,7 @@ When you believe your RIP is mature and ready to progress past the WIP phase, yo
 * **WIP** - a RIP that is still being developed.
 * **Proposed** - a RIP that is ready to be reviewed in a governance call.
 * **Approved** - a RIP that has been accepted for implementation by the Rari community.
+* **Implementing** -- This RIP is currently being implemented.
 * **Implemented** - a RIP that has been released to mainnet.
 * **Rejected** - a RIP that has been rejected.
 * **Withdrawn** - a RIP that has been withdrawn by the author(s).
