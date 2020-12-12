@@ -136,7 +136,7 @@ The current RIP editors are:
 
 * `Jack Lipstone:` [GitHub](https://github.com/Jacklipstone)/[Forums](https://forums.rari.capital/u/JackLipstone)
 
-* `Justin Yu (@JustinYu):` [GitHub](https://github.com/Jacklipstone)/[Forums](https://forums.rari.capital/u/JustinYu)
+* `Justin Yu (@JustinYu):` [GitHub](https://github.com/JustinYu)/[Forums](https://forums.rari.capital/u/JustinYu)
 
 * `Jai Bhavnani (@jai):` [GitHub](https://github.com/jbhav24)/[Forums](https://forums.rari.capital/u/jai)
 
